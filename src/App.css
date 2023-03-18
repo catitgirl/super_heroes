@@ -1,0 +1,21 @@
+.App {
+
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding: 5px;
+}
+
+img {
+  height: 380px;
+  width: 250px;
+  border-radius: 10px;
+ 
+}
